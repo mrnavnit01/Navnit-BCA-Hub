@@ -23,7 +23,7 @@
 
 ## 📷 Preview
 
-🔗 Live Website: https://bca-hub-cbvh.onrender.com/
+🔗 Live Website: https://bca-hub-cbvh.onrender.com
 
 ---
 
