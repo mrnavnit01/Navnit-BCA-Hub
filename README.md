@@ -23,7 +23,7 @@
 
 ## 📷 Preview
 
-🔗 Live Website: [https://bca-hub-cbvh.onrender.com](https://navnit-bca-hub.onrender.com/)
+🔗 Live Website: https://navnit-bca-hub.onrender.com/
 
 ---
 
